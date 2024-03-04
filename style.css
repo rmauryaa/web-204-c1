@@ -1,0 +1,161 @@
+.img-aline{
+    display: inline-block;
+    /* margin: 1em; */
+    width: 50%px;
+    height: 50%;
+}
+
+#star{
+    margin: 60px;
+}
+
+/* #img-All-aline{
+    margin: 1em;
+    width: 100%;
+    height: 50%;
+} */
+
+/* #table-img{
+    width: 100vb;
+    height: 100vb;
+    display: flex;
+    justify-content: center;
+} */
+
+/* #box{
+    width: 350px;
+    padding: 50px;
+    padding-right: 60px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    height: auto;
+    margin: 50px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+
+} */
+
+
+
+
+#box{
+    
+    width: 350px;
+    /* padding: 50px; */
+    padding-right: 60px ;
+    padding-left: 40px ;
+    padding-bottom: 40px;
+    padding-top: 50px;
+    height: auto;
+    border: 2px solid;
+    margin: 50px    ;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+}
+#box2{
+    
+    width: 1350px;
+    /* padding: 50px; */
+    padding-right: 60px ;
+    padding-left: 40px ;
+    padding-bottom: 40px;
+    padding-top: 50px;
+    height: 700px;
+    border: 2px solid;
+    margin: 50px    ;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    /* background-image: radial-gradient(); */
+    background: radial-gradient(circle,  #cb0558, #030525);
+    /* background: url("https://media.istockphoto.com/id/1063727164/video/multicolored-motion-gradient-background-shades-of-gray.jpg?s=640x640&k=20&c=ddlttXzOZzR92NVlL40I6Bu31FCjReuNDKAvnIZ85D4="); */
+}
+#box4{
+    
+    width: 1350px;
+    /* padding: 50px; */
+    padding-right: 11px ;
+    padding-left: 40px ;
+    padding-bottom: 40px;
+    padding-top: 1px;
+    height: 20px;
+    border: 2px solid;
+    margin: 5px;
+    margin-right: 50px;
+    background-color: black;
+   }
+#head1{
+    
+    width: 1450px;
+    /* padding: 50px; */
+    padding-right: 11px ;
+    padding-left: 40px ;
+    padding-bottom: 40px;
+    padding-top: 1px;
+    height: 20px;
+    /* border: 2px solid; */
+    margin: 5px;
+    margin-right: 50px;
+    background-color: #c81c2a;
+   }
+#head2{
+    
+    width: 1450px;
+    /* padding: 50px; */
+    padding-right: 11px ;
+    padding-left: 40px ;
+    padding-bottom: 40px;
+    padding-top: 1px;
+    height: 20px;
+    /* border: 2px solid; */
+    margin: 5px;
+    margin-right: 50px;
+    background-color: black;
+   }
+
+.submit{
+    background-color: #4cb050;
+    color: white; 
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;  
+    border-color: transparent;
+    
+}
+.set{
+    margin-top: 5px;
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;  
+    background-color: white; 
+    border-color: rgb(177, 176, 176);
+    /* border: 1px; */
+}
+
+.msg{
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;    
+}
+
+
+
+.required::after {
+    content: "*";
+    color: red;
+    margin-left: 5px; /* Add space between the label text and the star */
+}
+
+/* label{
+    font-weight: bold;
+} */
+
+/* .music{
+    color: #4cb050;
+} */
+
+.list{
+    display: inline-block;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
